@@ -70,4 +70,4 @@ go run main.go -L=[password length] -n=[true/false] -l=[true/false] -p=[true/fal
 
 ## Contributors
 
-This project was created as a school assignment by N Hart. If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
+This project was created as a school assignment by Boemy. If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
